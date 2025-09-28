@@ -6,8 +6,8 @@
 
   ## Quick Links
   - [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmMzZTY3NTItMmUzMi00MjlkLWE0YTktYThjZmU2MDZjN2Y4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-  - [Video Presentation](https://youtu.be/XXXXXXX)  
-  - [LinkedIn Post](https://www.linkedin.com/posts/fake-link)  
+  - [Video Presentation](https://www.youtube.com/watch?v=qdC7o9j253E)  
+  - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7377953241269055488/)  
   - [Project Reports (PDFs)](PDFs%20from%20Codebasics/)  
   - [Datasets](Datasets/)  
   - [SQL Queries](SQL/Ad-hoc%20requests.sql)  
