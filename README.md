@@ -1,4 +1,3 @@
-readme: |
   # 📰 Welcome to the Bharat Herald Story
 
   This repository captures the journey of analyzing Bharat Herald’s data and building a roadmap for its digital future.  
@@ -9,7 +8,7 @@ readme: |
   - 📊 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmMzZTY3NTItMmUzMi00MjlkLWE0YTktYThjZmU2MDZjN2Y4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
   - 🎥 [Video Presentation](https://youtu.be/XXXXXXX)  
   - 💼 [LinkedIn Post](https://www.linkedin.com/posts/fake-link)  
-  - 📄 [Project Reports (PDFs)](PDFs_from_Codebasics/)  
+  - 📄 [Project Reports (PDFs)](PDFs%20from%20Codebasics/)  
   - 🗂 [Datasets](Datasets/)  
   - 📝 [SQL Queries](SQL/Ad-hoc%20requests.sql)  
   - 📸 [Screenshots](Screenshots/)  
@@ -33,11 +32,11 @@ readme: |
   ---
 
   ## 📂 Repository Structure
-      ```plaintext
+      ```
       Bharat-Herald-Digital-Strategy/
-      │── Competitor_Analysis/        # Competitor research (ChatGPT PDF)
+      │── Competitor Analysis/        # Competitor research (ChatGPT PDF)
       │── Datasets/                   # Excel files + Jupyter Notebook + metadata.txt
-      │── PDFs_from_Codebasics/       # 4 official challenge PDFs
+      │── PDFs from Codebasics/       # 4 official challenge PDFs
       │── Screenshots/                # Power BI & SQL output screenshots
       │── SQL/                        # CSVs + final .sql script
       │── Logo/                       # Project logo
@@ -93,7 +92,9 @@ readme: |
     ![BR4](Screenshots/Business%20Request%204.png)  
 
   - **Business Request 5**  
-    ![BR5](Screenshots/Business%20Request%205.png)  
+    ![BR5 Part 1](Screenshots/Business%20Request%205%20Part%201.png)  
+    ![BR5 Part 2](Screenshots/Business%20Request%205%20Part%202.png)  
+    ![BR5 Part 3](Screenshots/Business%20Request%205%20Part%203.png)  
 
   - **Business Request 6**  
     ![BR6](Screenshots/Business%20Request%206.png)  
@@ -121,13 +122,13 @@ readme: |
   ---
 
   ## 📚 Reports
-  All official project files are stored in `/PDFs_from_Codebasics/`:
+  All official project files are stored in `/PDFs from Codebasics/`:
   - Media Problem Statement  
   - Primary & Secondary Analysis  
   - Ad-Hoc Requests  
   - How to Get Started Guide  
 
-  Competitor analysis (ChatGPT deep dive) is stored in `/Competitor_Analysis/`.
+  Competitor analysis (ChatGPT deep dive) is stored in `/Competitor Analysis/`.
 
   ---
 
